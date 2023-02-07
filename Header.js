@@ -11,3 +11,9 @@ function Header() {
             <SearchRounded className="searchIcon" />
             <input type="text" placeholder="Search" />
         </div>
+    <div className="shoppingCart">
+          <ShoppingCartRounded className="cart" />
+          <div className="cart_content">
+            <p>2</p>
+          </div>
+          </div>
