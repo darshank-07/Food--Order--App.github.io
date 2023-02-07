@@ -52,3 +52,36 @@ header {
   font-size: 14px;
   font-weight: 500;
 }
+
+.shoppingCart{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.shoppingCart .cart_content{
+  font-size: 20 px;
+  color: #373848;
+}
+
+.shoppingCart .cart_content{
+ width: 20px;
+ height: 20px;
+ background: #f8901c;
+ border-radius: 100%;
+ min-width: 20px;
+ min-height: 20px;
+ position: absolute;
+ top: -8px;
+ right: 0;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.shoppingCart .cart_content p {
+  font-weight: 500;
+  color: #faf9fb;
+}
