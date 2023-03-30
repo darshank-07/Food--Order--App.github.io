@@ -288,6 +288,106 @@ const Items = [
     ratings: 4,
     price: "9",
   },
- 
+ {
+    id: 28,
+    itemId: "snack01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack4.png?alt=media&token=1efcd8c0-098b-44a5-8113-da225e7358ce",
+    name: "Snack",
+    ratings: 4,
+    price: "9",
+  },
+  {
+    id: 29,
+    itemId: "snack01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack5.png?alt=media&token=80cece50-38cd-489f-a73f-edd740fba4ab",
+    name: "Snack",
+    ratings: 4,
+    price: "9",
+  },
+  {
+    id: 30,
+    itemId: "snack01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fsnack6.png?alt=media&token=a36cb2c5-72d1-4364-9817-3a8eb8c244b6",
+    name: "Snack",
+    ratings: 4,
+    price: "9",
+  },
+  {
+    id: 31,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink1.png?alt=media&token=e9cc5e4e-2194-4766-9d5a-5e01657927b7",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "9",
+  },
+  {
+    id: 32,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink2.png?alt=media&token=872c5ddd-23ae-4f1e-b1dd-18d375240ba6",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+  {
+    id: 33,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink3.png?alt=media&token=c0efdccf-149a-4063-9658-00ae6c7c69dc",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+  {
+    id: 34,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink4.png?alt=media&token=eaaa8826-7fc0-499f-9eaf-8369ff99c112",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+  {
+    id: 35,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink5.png?alt=media&token=eecf1eee-73f5-4705-a7ce-9ccc363f4f47",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+  {
+    id: 36,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink6.png?alt=media&token=86c4ba2c-0db7-47f0-b8cf-fed24db6c1ae",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+
+  {
+    id: 41,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fburger1.png?alt=media&token=319dfbe9-462b-46ea-8f38-6ca7a20319e0",
+    name: "Burger Bistro",
+    ratings: 5,
+    price: "7.5",
+  },
+  {
+    id: 42,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fburger2.png?alt=media&token=b256ed7a-fe35-4051-9bf5-24f39b79f2b2",
+    name: "Smokin' Burger",
+    ratings: 5,
+    price: "12",
+  },
+  
 
  
