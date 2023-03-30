@@ -676,6 +676,26 @@ const Items = [
     ratings: 4,
     price: "7.5",
   },
-  
+   {
+    id: 75,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink5.png?alt=media&token=eecf1eee-73f5-4705-a7ce-9ccc363f4f47",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+  {
+    id: 76,
+    itemId: "drink01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink6.png?alt=media&token=86c4ba2c-0db7-47f0-b8cf-fed24db6c1ae",
+    name: "Soft Drinks",
+    ratings: 4,
+    price: "7.5",
+  },
+];
+
+export { MenuItems, Items };
 
  
